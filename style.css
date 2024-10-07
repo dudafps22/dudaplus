@@ -60,4 +60,8 @@ p {
     color: white;
 }
 
+.rodape__texto {
+    margin: 1 em 0;
+    color: var(--botao-azul-efeito);
+    font-size: 14px;
 Maria Eduarda Vieira
